@@ -1,26 +1,24 @@
-# 📈 Stock Price Analysis - Apple (AAPL)
+# 📈 Stock Price Analysis & Prediction (AAPL)
 
 ## 🎯 Objectif
-Analyser l’évolution du prix de l’action Apple et prédire sa tendance à court terme.
+Analyser et modéliser l’évolution du prix d’une action afin de prédire sa tendance à court terme.
 
 ## 📊 Données
 Données historiques récupérées via l’API yfinance.
 
 ## ⚙️ Méthodologie
-- Récupération des données financières
-- Visualisation des prix de clôture
-- Création d’une variable cible (prix du lendemain)
-- Modélisation avec régression linéaire
+- Analyse exploratoire des données
+- Calcul des indicateurs financiers (moyennes mobiles)
+- Création d’une variable cible (prix futur)
+- Modélisation avec Random Forest
 
 ## 📈 Résultats
-Le modèle permet de prédire la tendance du prix à court terme.
+Le modèle permet d’estimer la tendance du marché à court terme.
+
+## 🧠 Compétences mobilisées
+- Analyse de séries temporelles
+- Machine Learning
+- Data preprocessing
 
 ## 🛠️ Technologies
-- Python
-- Pandas
-- Matplotlib
-- Scikit-learn
-- yfinance
-
-## 🚀 Auteur
-Vali Wadjid
+Python, Pandas, Scikit-learn, Matplotlib, yfinance
