@@ -1,4 +1,4 @@
-# 📈 Stock Price Analysis & Prediction (AAPL)
+# 📈 Stock Price Analysis & Prediction
 
 ## 🎯 Objectif
 Analyser et modéliser l’évolution du prix d’une action afin de prédire sa tendance à court terme.
