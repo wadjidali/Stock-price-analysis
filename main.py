@@ -63,6 +63,3 @@ plt.title("Comparaison Réel vs Prédiction")
 plt.xlabel("Temps")
 plt.ylabel("Prix")
 plt.show()
-
-
-print("\nProjet terminé avec succès.")
