@@ -20,5 +20,14 @@ Le modèle permet d’estimer la tendance du marché à court terme.
 - Machine Learning
 - Data preprocessing
 
+## 📈 Résultats
+
+### Analyse Technique de Apple
+![anatech](https://github.com/user-attachments/assets/52cca779-1908-45cc-9654-9fb57c4e1da6)
+
+### Comparaison Réel vs Prédiction
+![compa](https://github.com/user-attachments/assets/71405702-d167-4e04-8249-f38bfd01afb0)
+
+
 ## 🛠️ Technologies
 Python, Pandas, Scikit-learn, Matplotlib, yfinance
